@@ -1,0 +1,17 @@
+# Task 3: Python Applications in Business
+
+# i & ii. Create variables and assign values
+business_name = "ruiru Fresh Foods"
+product_name = "Cooking Oil"
+product_price = 500.00
+quantity_purchased = 3
+
+# iii. Calculate the total purchase cost
+total_cost = product_price * quantity_purchased
+
+# iv. Display the purchase details
+print("Business Name:", business_name)
+print("Product Name:", product_name)
+print("Quantity Purchased:", quantity_purchased)
+print("Product Price: KSh", product_price)
+print("Total Cost: KSh", total_cost)
