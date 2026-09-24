@@ -1,3 +1,4 @@
+#these are variables to store patient details while assigning suitable values
 patient_name = "edwin"
 patient_id = "P001"
 patient_age = 25
